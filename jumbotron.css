@@ -310,7 +310,7 @@ medium {
 
 /*SERIVCE Sections*/
 .service {
-  padding-top: 25px;
+  padding-top: 100px;
 }
 
 .FB {
@@ -319,6 +319,14 @@ medium {
 }
 
 .FB-content {
+  font-size: 15px;
+}
+
+.webdev {
+  font-size: 25px;
+}
+
+.webdev-content {
   font-size: 15px;
 }
 
