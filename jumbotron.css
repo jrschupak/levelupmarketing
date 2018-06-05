@@ -322,12 +322,28 @@ medium {
   font-size: 15px;
 }
 
+.seo {
+  font-size: 25px;
+}
+
 .webdev {
   font-size: 25px;
 }
 
 .webdev-content {
   font-size: 15px;
+}
+
+.photography {
+  padding-top: 75px;
+}
+
+.photo-title {
+  font-size: 25px;
+}
+
+.photographyList {
+  padding-top: 25px;
 }
 
 footer {
@@ -514,5 +530,11 @@ textarea {
       position: relative;
       top: 700px;
     }
+    .footer-contact-service {
+      position: relative;
+      top: 100px;
+    }
+
+
 
   
