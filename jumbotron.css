@@ -313,6 +313,15 @@ medium {
   padding-top: 100px;
 }
 
+.service {
+  margin-top: 25px;
+  border-top: 2px solid black;
+}
+
+.FBS {
+  border-top: 0px;
+}
+
 .FB {
   font-size: 25px;
   color: #4267b2;
