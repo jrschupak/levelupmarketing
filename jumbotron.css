@@ -139,6 +139,11 @@ a {
   /*top: 50px;*/
 }
 
+@media (max-width: 1199px) {
+  .main {
+    height: 200px;
+}
+
 .home-page-content {
   padding: 0px;
   margin: 0px;
@@ -164,7 +169,7 @@ a {
 
 .home-page-content>p {
   margin: 0px;
-  font-size: 43px;
+  font-size: 75px;
   line-height: 1.4;
   font-weight: bold;
   color: black;
